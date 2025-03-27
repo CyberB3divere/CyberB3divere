@@ -1,16 +1,16 @@
 ### 👋 Hi, I'm Gabriel Germano!  
 
-💼 **Cybersecurity Consultant | Ethical Hacking | Threat Intelligence**  
+💼 **Cybersecurity Consultant | SOC Analyst | Threat Intelligence**  
 
 📍 Based in Brazil | 27 years old  
 
 ---
 
 ## 🚀 **About Me**  
-🔹 **Security Consultant** with over 4 years of experience in Cybersecurity.  
-🔹 Specialized in **Incident Response, Threat Intelligence, and Pentesting**.  
-🔹 Passionate about **SIEM, SOC operations, and ITIL-based security processes**.  
-🔹 Strong knowledge of **Linux security, Network Security, and Risk Management**.  
+🔹 **Security Consultant** with over 5 years of experience in Cybersecurity.  
+🔹 Specialized in **Incident Response and Threat Intelligence**.  
+🔹 Passionate about **SIEM, SOC operations, Linux and the Open-Source Movement**.  
+🔹 Strong knowledge of **Linux security, Network Security, and Incident Investigation**.  
 
 ---
 
