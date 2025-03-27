@@ -1,3 +1,4 @@
+https://images.steamusercontent.com/ugc/860604416504689970/9446143782A525D5B1B5FE7204FF717D93F92FE8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 ### 👋 Hi, I'm Gabriel Germano!  
 
 💼 **Cybersecurity Consultant | SOC Analyst | Threat Intelligence**  
