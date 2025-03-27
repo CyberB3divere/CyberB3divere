@@ -1,3 +1,5 @@
+![me](https://github.com/CyberB3divere/CyberB3divere/blob/main/me.gif)
+
 ### 👋 Hi, I'm Gabriel Germano!  
 
 💼 **Cybersecurity Consultant | SOC Analyst | Threat Intelligence**  
