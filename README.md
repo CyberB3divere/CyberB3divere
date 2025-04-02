@@ -1,4 +1,4 @@
-![me](https://github.com/CyberB3divere/CyberB3divere/blob/main/me.gif)
+https://www.youtube.com/watch?v=FtHZn5X5bXM
 
 ### 👋 Hi, I'm Gabriel Germano!  
 
