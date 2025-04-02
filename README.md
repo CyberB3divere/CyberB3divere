@@ -1,4 +1,5 @@
-[![Video Thumbnail](https://img.youtube.com/vi/FtHZn5X5bXM/0.jpg)](https://www.youtube.com/watch?v=FtHZn5X5bXM)
+[![Monty Python and the Holy Grail, 1975](https://64.media.tumblr.com/4e3154675f531122b67c07f6347f360e/fd1c60d6f4941663-c7/s500x750/776eb6a479abcb8ce8a1fbaef89348ca3d75bce2.gif)](https://www.youtube.com/watch?v=FtHZn5X5bXM)
+
 
 
 ### 👋 Hi, I'm Gabriel Germano!  
