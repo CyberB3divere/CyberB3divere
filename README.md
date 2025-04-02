@@ -1,4 +1,5 @@
-https://www.youtube.com/watch?v=FtHZn5X5bXM
+[![Video Thumbnail](https://img.youtube.com/vi/FtHZn5X5bXM/0.jpg)](https://www.youtube.com/watch?v=FtHZn5X5bXM)
+
 
 ### 👋 Hi, I'm Gabriel Germano!  
 
