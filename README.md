@@ -1,5 +1,6 @@
-[![Monty Python and the Holy Grail, 1975](https://github.com/SirB3devere/SirB3devere/blob/main/SirBedevere.gif)](https://www.youtube.com/watch?v=FtHZn5X5bXM)
-
+<a href="https://www.youtube.com/watch?v=FtHZn5X5bXM" target="_blank">
+    <img src="https://github.com/SirB3devere/SirB3devere/blob/main/SirBedevere.gif" alt="Monty Python and the Holy Grail, 1975">
+</a>
 
 
 ### 👋 Hi, I'm Gabriel Germano!  
